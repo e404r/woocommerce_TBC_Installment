@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: განვადება TBC\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-19 14:00+0000\n"
+"PO-Revision-Date: 2020-10-19 14:05+0000\n"
+"Last-Translator: jughel <rjugeli@gmail.com>\n"
+"Language-Team: ქართული\n"
+"Language: ka_GE\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.5.1"
+
+#: main.php:78
+msgid "Add a TBC Bank installment plan to your site"
+msgstr "საიტზე TBC ბანკის განვადების ჩართვა"
+
+#: main.php:75 main.php:115
+msgid "Buy in installments"
+msgstr "განვადებით შეძენა"
+
+#: main.php:123
+msgid "Buy products with TBC installment."
+msgstr "შეიძინეთ პროდუქტები TBC განვადებით."
+
+#: main.php:53
+msgid "Configure"
+msgstr "კონფიგურაცია"
+
+#: main.php:120
+msgid "Description"
+msgstr "აღწერა"
+
+#. Author of the plugin
+msgid "E404R"
+msgstr "E404R"
+
+#. Author URI of the plugin
+msgid "https://e404r.vip"
+msgstr "https://e404r.vip"
+
+#: main.php:107
+msgid "Inclusion of TBC installment"
+msgstr "TBC განვადების ჩართვა"
+
+#: main.php:122
+msgid "Payment method description that the customer will see on your checkout."
+msgstr ""
+"გადახდის მეთოდის აღწერა, რომელსაც მომხმარებელი დაინახავს გადახდის დროს."
+
+#: main.php:77 main.php:157
+msgid "TBC installment"
+msgstr "TBC განვადება"
+
+#: main.php:114
+msgid ""
+"This controls the title for the payment method the customer sees during "
+"checkout."
+msgstr ""
+"ეს აკონტროლებს გადახდის მეთოდის სათაურს, რომელსაც მომხმარებელი ხედავს "
+"გადახდის დროს."
+
+#: main.php:112
+msgid "Title"
+msgstr "სათაური"
+
+#: main.php:105
+msgid "Turning ON / OFF"
+msgstr "ჩართვა / გამორთვა"
+
+#. Name of the plugin
+msgid "განვადება TBC"
+msgstr "განვადება TBC"
